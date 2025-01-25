@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://legasthenie.netlify.app/*"
+  to = "https://legasthenie.vercel.app/:splat"
+  status = 301
+  force = true
